@@ -1,0 +1,40 @@
+{
+  "name": "Polok Ghosh",
+  "type": "personal",
+  "displayStatsPublic": true,
+  "bio": "**Python & Java** Developer | Contributor @kubernetes | Azure Dev CO | Everything about tech",
+  "tags": ["Open Source", "Kubernetes", "Docker", "Java", "Python", "DSA"],
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/stompingdrake" },
+    { "icon": "FaGithub", "url": "https://github.com/Polokghosh53" },
+    { "icon": "FaLink", "url": "https://linktr.ee/Polokghosh" }
+  ],
+  "avatar": "https://github.com/Polokghosh53.png",
+  "links": [
+    {
+      "name": "Check my tweets on tech and everything",
+      "url": "https://twitter.com/stompingdrake",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow my Open Source journey",
+      "url": "https://github.com/Polokghosh53",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Connect with me on LinkedIn",
+      "url": "https://www.linkedin.com/in/polok-ghosh",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://linktr.ee/Polokghosh",
+      "icon": "FaGlobe"
+    },
+    {
+      "name": "Tech Blog",
+      "url": "https://medium.com/@polokghosh53",
+      "icon": "FaMedium"
+    }
+  ]
+}
